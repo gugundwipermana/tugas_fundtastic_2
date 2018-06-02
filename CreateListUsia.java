@@ -15,7 +15,7 @@ public class CreateListUsia {
       usia.add(m);
     }
 
-    // hasil ASC di masukan ke dalam file usia_out.txt
+    // Usia random akan di masukan ke dalam file usia_in.txt
     try ( BufferedWriter bw = new BufferedWriter (new FileWriter ("usia_in.txt")) )
     {
       for (String line : usia) {
