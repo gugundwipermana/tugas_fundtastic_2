@@ -14,17 +14,17 @@ Dan yang kedua adalah script Java yang digunakan untuk menurutkan daftar **Usia*
 - CreateListUsia
 - SortListUsia
 
-![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/master/img/01_Directory.png)
+![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/v0.1/img/01_Directory.png)
 
 Menjalankan file **CreateListUsia.java** untuk membuat list usia secara random. Hasil akan di simpan dalam file **usia_in.txt**
-![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/master/img/02_CreateListUsia_01.png)
+![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/v0.1/img/02_CreateListUsia_01.png)
 
-![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/master/img/02_CreateListUsia_02.png)
+![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/v0.1/img/02_CreateListUsia_02.png)
 
 Menjalankan file **SortListUsia.java** untuk membuat list usia random dari file **usia_in.txt** menjadi ter-urut *Ascending*. Hasil akan di simpan dalam file **usia_out.txt**
 
-![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/master/img/03_Sort_01.png)
+![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/v0.1/img/03_Sort_01.png)
 
 ### Hasil
 
-![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/master/img/03_Sort_02.png)
+![alt text](https://raw.githubusercontent.com/gugundwipermana/tugas_fundtastic_2/v0.1/img/03_Sort_02.png)
